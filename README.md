@@ -2,9 +2,9 @@ For this project to run we need python 3.10
 
 Install the modules from requirements.txt
 
-./runs contains all graphs of training/validating. Run via commann "tensorboard --logdir runs" to see graphs.
+./runs contains all graphs of training/validating. Run via command "tensorboard --logdir runs" to see graphs.
 
-./Results contains notebook files from different runnings. To identify the graph for this particular run, look at printed timestamp inside the notebooks.
+./Results contains notebook files from different runnings. To identify the graph for a particular run, look at printed timestamp inside the notebooks.
 
 Use Make_dataset_with_mtcnn.ipynb to create dataset with cropped faces using MTCNN.
 
